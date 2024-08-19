@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1723070834932",
+    "city": "Dammam",
+    "building": "main building",
+    "floor": "1st floor",
+    "roomNumber": "105",
+    "capacity": "23",
+    "smartScreen": "no",
+    "projector": "yes",
+    "callingScreen": "no",
+    "responsibleAdmin": "HR",
+    "images": []
+  },
+  {
+    "id": "1723071501058",
+    "city": "Al Ahsa",
+    "building": "main building",
+    "floor": "2nd floor",
+    "roomNumber": "130",
+    "capacity": "25",
+    "smartScreen": "yes",
+    "projector": "no",
+    "callingScreen": "yes",
+    "responsibleAdmin": "HR",
+    "images": []
+  },
+  {
+    "id": "1723071545494",
+    "city": "Al Ahsa",
+    "building": "main building",
+    "floor": "2nd floor",
+    "roomNumber": "242",
+    "capacity": "30",
+    "smartScreen": "no",
+    "projector": "no",
+    "callingScreen": "no",
+    "responsibleAdmin": "Finance",
+    "images": []
+  },
+  {
+    "id": "1723071579177",
+    "city": "Dammam",
+    "building": "IT building",
+    "floor": "1st floor",
+    "roomNumber": "220",
+    "capacity": "20",
+    "smartScreen": "no",
+    "projector": "no",
+    "callingScreen": "no",
+    "responsibleAdmin": "IT",
+    "images": []
+  },
+  {
+    "id": "1723074107218",
+    "city": "Hafar Al Batin",
+    "building": "main building",
+    "floor": "1st floor",
+    "roomNumber": "153",
+    "capacity": "26",
+    "smartScreen": "yes",
+    "projector": "no",
+    "callingScreen": "yes",
+    "responsibleAdmin": "HR Department",
+    "images": []
+  },
+  {
+    "id": "1723099158056",
+    "city": "Khobar",
+    "building": "main building",
+    "floor": "1st floor",
+    "roomNumber": "103",
+    "capacity": "a12",
+    "smartScreen": "no",
+    "projector": "yes",
+    "callingScreen": "no",
+    "responsibleAdmin": "HR",
+    "images": []
+  }
+]

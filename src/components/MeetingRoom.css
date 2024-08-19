@@ -1,0 +1,32 @@
+.meeting-room {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1em;
+  margin-bottom: 1em;
+  text-align: left;
+}
+
+.meeting-room h3 {
+  margin-top: 0;
+}
+
+.meeting-room p {
+  margin: 0.5em 0;
+}
+
+.meeting-room button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  margin-right: 0.5em;
+  border-radius: 3px;
+  transition: background-color 0.3s;
+}
+
+.meeting-room button:hover {
+  background-color: #ffffff;
+  color: #333;
+}

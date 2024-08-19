@@ -1,0 +1,86 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  background-color: #333;
+  color: white;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.city-select {
+  background-color: #555;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  margin-right: 1em;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.city-select:hover {
+  background-color: #777;
+}
+
+.add-rooms-button {
+  background-color: #555;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  margin-right: 1em;
+  border-radius: 3px;
+  transition: background-color 0.3s;
+}
+
+.add-rooms-button:hover {
+  background-color: #777;
+}
+
+.user-icon-container {
+  position: relative;
+}
+
+.user-icon {
+  font-size: 1.5em;
+  color: white;
+  cursor: pointer;
+}
+
+.user-icon:hover {
+  color: #ccc;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 2.5em;
+  right: 0;
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 0.5em 0;
+  z-index: 10;
+  display: none;
+}
+
+.dropdown-menu.visible {
+  display: block; 
+}
+
+.dropdown-item {
+  display: block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  color: black;
+}
+
+.dropdown-item:hover {
+  background-color: #f1f1f1;
+}

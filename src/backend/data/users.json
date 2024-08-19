@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1722845299068",
+    "name": "Ali Almarzooq",
+    "email": "aliO1@hotmail.com",
+    "password": "$2a$10$5JE0I.KnlwYOCSXcTBXVPu.VSxv.oS5bfWtZKNlghZ.fKZ1/kRiwO",
+    "userType": "user",
+    "administration": "IT Department",
+    "city": "Dammam"
+  },
+  {
+    "id": "1722845617494",
+    "name": "Abdullah",
+    "email": "Abdu123@hotmail.com",
+    "password": "$2a$10$06GS.z8RjzX6cuoEfAv1IuJLy.MlSfQQ0ziJMabJGDyfPubSsIjKi",
+    "userType": "admin",
+    "administration": "Customer Service",
+    "city": "Dammam"
+  },
+  {
+    "id": "1722928783245",
+    "name": "Mohammed",
+    "email": "Moh123@hotmail.com",
+    "password": "$2a$10$sAIHRbpVfMIaCLBAIURumOb0CTMWAs3.E1UDkxcO44pJqeeSr8Gn2",
+    "userType": "user",
+    "administration": "IT Department",
+    "city": "Hafar Al Batin"
+  },
+  {
+    "id": "1722931622714",
+    "name": "Fahad",
+    "email": "Fah123@hotmail.com",
+    "password": "$2a$10$HD7kFMM.uLqXpfNK7cnFbu9ic4tBePnf4JeJM4P1IUZ71MQo8tqEy",
+    "userType": "user",
+    "administration": "IT Department",
+    "city": "Dammam"
+  },
+  {
+    "id": "1722985040965",
+    "name": "Faisal",
+    "email": "Faisal@hotmail.com",
+    "password": "$2a$10$0Ny8vlYR3EuyReUZLsk0wun5Tv2XE2Gdw5PCrcsqI87B0PMrhNb9i",
+    "userType": "user",
+    "administration": "IT",
+    "city": "Khobar"
+  },
+  {
+    "id": "1723072282114",
+    "name": "Adil",
+    "email": "Adil@hotmail.com",
+    "password": "$2a$10$XKFKRwQpp/S.TWacF7sc4.G./gstDICdNMFSD9RRBAVOt.aNURwJ.",
+    "userType": "user",
+    "administration": "IT Department",
+    "city": "Hafar Al Batin"
+  }
+]

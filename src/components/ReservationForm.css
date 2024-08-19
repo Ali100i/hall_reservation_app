@@ -1,0 +1,89 @@
+.reservation-form-container {
+  position: relative;
+  padding: 2em;
+  text-align: left;
+}
+
+.reservation-form {
+  border: 1px solid #ccc;
+  padding: 1em;
+  width: 100%;
+  text-align: left;
+  position: relative; 
+}
+
+.reservation-form h2 {
+  text-align: center;
+}
+
+.reservation-form label {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+.reservation-form textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 1em;
+}
+
+.reservation-form div {
+  margin-bottom: 1em;
+}
+
+.reservation-form button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 0.75em 1.5em;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 1em; 
+}
+
+.reservation-form button:hover {
+  background-color: #555;
+}
+
+.return-button {
+  background-color: #777;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-bottom: 1em; 
+}
+
+.return-button:hover {
+  background-color: #555;
+}
+
+.time-inputs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.time-inputs div {
+  display: flex;
+  flex-direction: column;
+}
+
+.reservation-form input[type="date"],
+.reservation-form input[type="time"],
+.reservation-form textarea {
+  width: 100%;
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.reservation-form input[type="checkbox"] {
+  margin-right: 0.5em;
+}
+
+.room-details p {
+  color: gray;
+  margin: 0.2em 0;
+}
